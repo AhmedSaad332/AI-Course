@@ -14,22 +14,19 @@
 gantt
     title AI Course Roadmap
     dateFormat  YYYY-MM-DD
-    section Session 1
-    Python Basics            :done, 2026-01-01, 1d
-    section Session 2
-    Data Types & Operations  :active, 2026-01-02, 2d
-    section Session 3
-    Data Processing          : 2026-01-04, 2d
-    AI Practice Exercises    : 2026-01-06, 2d
-    section Session 4
-    Advanced Python          : 2026-01-08, 2d
-    section Session 5
-    Machine Learning Basics  : 2026-01-10, 3d
-    section Session 6
-    Mini Project             : 2026-01-13, 4d
-````
 
----
+    section Session 1
+    Intro                    :done, 2026-01-24, 1d
+    Basics                   :done, 2026-01-27, 1d
+    DataTypes                :done, 2026-01-27, 1d
+
+    section Session 2
+    Strings                  :active, 2026-01-31, 2d
+
+    section Session 3
+    Conditions               : 2026-02-03, 2d
+    AI Practice Exercises    : 2026-02-03, 2d
+````
 
 # 📊 Overall Progress
 
