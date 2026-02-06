@@ -2,7 +2,7 @@
 
 ![Repo Size](https://img.shields.io/github/repo-size/AhmedSaad332/AI-Course)
 ![Last Commit](https://img.shields.io/github/last-commit/AhmedSaad332/AI-Course)
-![Top Language](https://img.shields.io/github/languages/top/AhmedSaad332/AI-Course)
+![Top Language](https://img.shields.io/badge/Top%20Language-Python-blue)
 
 ---
 
@@ -12,19 +12,31 @@
 gantt
     title AI Course Roadmap
     dateFormat  YYYY-MM-DD
+    axisFormat  %d-%m
 
+    %% Session 1: Completed (Green)
     section Session 1
     Intro                    :done, 2026-01-24, 1d
     Basics                   :done, 2026-01-25, 1d
     DataTypes                :done, 2026-01-26, 1d
 
+    %% Session 2: In Progress (Yellow)
     section Session 2
     Strings                  :active, 2026-01-31, 2d
 
+    %% Session 3: Pending (Grey)
     section Session 3
-    Conditions               : 2026-02-03, 1d
-    AI Practice Exercises    : 2026-02-04, 1d
+    Conditions               :crit, 2026-02-03, 1d
+    AI Practice Exercises    :crit, 2026-02-04, 1d
 ````
+
+### ✅ **Color Legend:**
+
+* **Green (`done`)** → Completed tasks
+* **Yellow (`active`)** → In-progress tasks
+* **Grey (`crit`)** → Pending / future tasks
+
+---
 
 # 📊 Overall Progress
 
@@ -79,6 +91,7 @@ AI-Course
 
 * Course Introduction
 * Python Basics for AI
+* Data Types
 
 ### Checklist
 
@@ -93,7 +106,7 @@ AI-Course
 
 ### Topics
 
-* Data Types & Operations
+* Strings
 * Practice Exercises
 
 ### Checklist
@@ -109,7 +122,7 @@ AI-Course
 
 ### Topics
 
-* Data Processing
+* Conditions
 * AI Practice Exercises
 * Tasks & Assignments
 
@@ -146,4 +159,3 @@ Computer Science Student | AI and Machine Learning Engineer
 GitHub: [https://github.com/AhmedSaad332](https://github.com/AhmedSaad332)
 
 ```
-
