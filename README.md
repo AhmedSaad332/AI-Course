@@ -1,6 +1,6 @@
 # 🎓 AI Course Dashboard
 
-![AI Course Banner](https://raw.githubusercontent.com/AhmedSaad332/AI-Course/main/assets/course-banner.png)
+![AI Course Banner](https://via.placeholder.com/1200x300.png?text=AI+Course+Banner)
 
 ![Repo Size](https://img.shields.io/github/repo-size/AhmedSaad332/AI-Course)
 ![Last Commit](https://img.shields.io/github/last-commit/AhmedSaad332/AI-Course)
@@ -17,15 +17,15 @@ gantt
 
     section Session 1
     Intro                    :done, 2026-01-24, 1d
-    Basics                   :done, 2026-01-27, 1d
-    DataTypes                :done, 2026-01-27, 1d
+    Basics                   :done, 2026-01-25, 1d
+    DataTypes                :done, 2026-01-26, 1d
 
     section Session 2
     Strings                  :active, 2026-01-31, 2d
 
     section Session 3
-    Conditions               : 2026-02-03, 2d
-    AI Practice Exercises    : 2026-02-03, 2d
+    Conditions               : 2026-02-03, 1d
+    AI Practice Exercises    : 2026-02-04, 1d
 ````
 
 # 📊 Overall Progress
@@ -144,5 +144,8 @@ Open notebooks using:
 # 👨‍💻 Author
 
 **Ahmed Saad**
-Computer Science Student | AI abd Machine Learning Engineer
+Computer Science Student | AI and Machine Learning Engineer
 GitHub: [https://github.com/AhmedSaad332](https://github.com/AhmedSaad332)
+
+```
+
