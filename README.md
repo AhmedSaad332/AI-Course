@@ -1,7 +1,5 @@
 # 🎓 AI Course Dashboard
 
-![AI Course Banner](https://via.placeholder.com/1200x300.png?text=AI+Course+Banner)
-
 ![Repo Size](https://img.shields.io/github/repo-size/AhmedSaad332/AI-Course)
 ![Last Commit](https://img.shields.io/github/last-commit/AhmedSaad332/AI-Course)
 ![Top Language](https://img.shields.io/github/languages/top/AhmedSaad332/AI-Course)
