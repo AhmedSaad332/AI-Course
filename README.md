@@ -95,9 +95,9 @@ AI-Course
 
 ### Checklist
 
-* [x] Session Materials Uploaded
-* [x] Practice Completed
-* [x] Assignment Submitted
+* Session Materials Uploaded
+* Practice Completed
+* Assignment Submitted
 
 </details>
 
