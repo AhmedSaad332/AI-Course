@@ -49,14 +49,6 @@ gantt
 ![Session 5](https://img.shields.io/badge/Session%205-Pending-lightgrey)
 ![Session 6](https://img.shields.io/badge/Session%206-Pending-lightgrey)
 
-### **Assignment Completion**
-
-![Assignments](https://img.shields.io/badge/Assignments-17%25-red)
-
-### **Course Completion**
-
-![Overall Progress](https://img.shields.io/badge/Course%20Completion-50%25-yellow)
-
 ---
 
 # 📂 Repository Structure
