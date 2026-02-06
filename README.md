@@ -28,14 +28,6 @@ gantt
     section Session 3
     Conditions               :crit, 2026-02-03, 1d
     AI Practice Exercises    :crit, 2026-02-04, 1d
-
-    %% Styles to make task text black
-    style Intro fill:#28a745,color:#000000
-    style Basics fill:#28a745,color:#000000
-    style DataTypes fill:#28a745,color:#000000
-    style Strings fill:#ffc107,color:#000000
-    style Conditions fill:#6c757d,color:#000000
-    style AI\ Practice\ Exercises fill:#6c757d,color:#000000
 ````
 
 ### ✅ **Color Legend:**
@@ -162,7 +154,7 @@ Open notebooks using:
 
 # 👨‍💻 Author
 
-**Ahmed Saad**
+**Ahmed Saad**:
 Computer Science Student | AI and Machine Learning Engineer
 GitHub: [https://github.com/AhmedSaad332](https://github.com/AhmedSaad332)
 
