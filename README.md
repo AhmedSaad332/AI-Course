@@ -43,8 +43,8 @@ gantt
 ### **Session Status**
 
 ![Session 1](https://img.shields.io/badge/Session%201-Completed-brightgreen)
-![Session 2](https://img.shields.io/badge/Session%202-In%20Progress-yellow)
-![Session 3](https://img.shields.io/badge/Session%203-Pending-lightgrey)
+![Session 2](https://img.shields.io/badge/Session%202-In%20Progress-brightgreen)
+![Session 3](https://img.shields.io/badge/Session%203-Pending-yellow)
 ![Session 4](https://img.shields.io/badge/Session%204-Pending-lightgrey)
 ![Session 5](https://img.shields.io/badge/Session%205-Pending-lightgrey)
 ![Session 6](https://img.shields.io/badge/Session%206-Pending-lightgrey)
