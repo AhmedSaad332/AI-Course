@@ -95,9 +95,9 @@ AI-Course
 
 ### Checklist
 
-* Session Materials Uploaded
-* Practice Completed
-* Assignment Submitted
+* [x] Session Materials Uploaded
+* [x] Practice Completed
+* [x] Assignment Submitted
 
 </details>
 
@@ -112,8 +112,8 @@ AI-Course
 ### Checklist
 
 * [x] Session Materials Uploaded
-* [ ] Practice Completed
-* [ ] Assignment Submitted
+* [x] Practice Completed
+* [x] Assignment Submitted
 
 </details>
 
@@ -154,7 +154,7 @@ Open notebooks using:
 
 # 👨‍💻 Author
 
-**Ahmed Saad**
+**Ahmed Saad**:
 Computer Science Student | AI and Machine Learning Engineer
 GitHub: [https://github.com/AhmedSaad332](https://github.com/AhmedSaad332)
 
